@@ -27,4 +27,8 @@ public class ControlAcheterProduit {
 	public String[] infosMarche() {
 		return village.donnerEtatMarche();
 	}
+	
+	public int acheterProduit(int quantite) {
+		//cherche acheter produit dans etal
+	}
 }
